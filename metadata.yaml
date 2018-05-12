@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '24844'
     url: http://www.gutenberg.org/2009/agents/24844
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21661#Impressions-of-a-War-Correspondent
 gutenberg_bookshelf: Boer War
 gutenberg_issued: '2007-06-01'
 gutenberg_type: Text
