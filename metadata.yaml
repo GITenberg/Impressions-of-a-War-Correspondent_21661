@@ -1,0 +1,29 @@
+_repo: Impressions-of-a-War-Correspondent_21661
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lynch, George
+    birthdate: 1868
+    deathdate: 1928
+    gutenberg_agent_id: '24844'
+    url: http://www.gutenberg.org/2009/agents/24844
+description: ''
+gutenberg_bookshelf: Boer War
+gutenberg_issued: '2007-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21661'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'China -- History -- Boxer Rebellion, 1899-1901'
+- !lcc 'DS'
+- !lcsh 'South African War, 1899-1902'
+title: Impressions of a War Correspondent
+url: http://www.gutenberg.org/ebooks/21661
